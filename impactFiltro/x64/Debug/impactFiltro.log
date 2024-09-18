@@ -1,0 +1,737 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(9,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+  (compilando o arquivo fonte '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(776,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando o arquivo fonte '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(433,38): warning C4244: '=': conversão de '_Rep' para 'int', possível perda de dados
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(433,38): warning C4244:         with
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(433,38): warning C4244:         [
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(433,38): warning C4244:             _Rep=__int64
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(433,38): warning C4244:         ]
+  (compilando o arquivo fonte '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(443,38): warning C4244: '=': conversão de '_Rep' para 'int', possível perda de dados
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(443,38): warning C4244:         with
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(443,38): warning C4244:         [
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(443,38): warning C4244:             _Rep=__int64
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(443,38): warning C4244:         ]
+  (compilando o arquivo fonte '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(453,38): warning C4244: '=': conversão de '_Rep' para 'int', possível perda de dados
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(453,38): warning C4244:         with
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(453,38): warning C4244:         [
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(453,38): warning C4244:             _Rep=__int64
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(453,38): warning C4244:         ]
+  (compilando o arquivo fonte '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(463,38): warning C4244: '=': conversão de '_Rep' para 'int', possível perda de dados
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(463,38): warning C4244:         with
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(463,38): warning C4244:         [
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(463,38): warning C4244:             _Rep=__int64
+C:\Users\rhaya\source\repos\impactFiltro\Form1.h(463,38): warning C4244:         ]
+  (compilando o arquivo fonte '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(735,1): warning C4793: 'stbi__cpuid3@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(735,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2615,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2615,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2616,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2616,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2617,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2617,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2618,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2618,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2619,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2619,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2620,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2620,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2621,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2621,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2622,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2622,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2625,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2625,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2626,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2626,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2629,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2629,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2630,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2630,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2631,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2631,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2632,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2632,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2633,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2633,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2634,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2634,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2635,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2635,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2636,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2636,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2639,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2643,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2643,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2643,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2643,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2644,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2644,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2644,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2644,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2645,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2645,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2645,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2645,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2646,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2646,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2646,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2646,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2649,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2649,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2649,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2649,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2650,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2650,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2650,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2650,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2651,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2651,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2651,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2651,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2652,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2652,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2652,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2652,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2655,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2655,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2655,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2655,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2656,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2656,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2656,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2656,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2657,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2657,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2657,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2657,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2658,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2658,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2658,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2658,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2662,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2666,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2666,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2667,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2667,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2668,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2668,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2669,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2669,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2672,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2672,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2672,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2672,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2673,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2673,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2673,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2673,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2676,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2676,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2676,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2676,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2677,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2677,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2677,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2677,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2680,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2680,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2680,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2680,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2681,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2681,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2681,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2681,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2684,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2684,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2685,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2685,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2685,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2685,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2686,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2686,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2687,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2687,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2687,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2687,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2688,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2688,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2689,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2689,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2689,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2689,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2690,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2690,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2691,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2691,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2691,1): warning C4793: 'stbi__idct_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(2691,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3696,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3696,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3697,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3697,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3698,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3698,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3699,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3699,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3700,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3700,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3701,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3701,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3702,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3702,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3706,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3706,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3707,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3707,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3708,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3708,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3709,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3709,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3710,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3710,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3713,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3713,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3714,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3714,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3714,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3714,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3715,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3715,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3715,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3715,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3718,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3718,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3719,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3719,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3720,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3720,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3721,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3721,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3722,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3722,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3723,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3723,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3724,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3724,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3725,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3725,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3726,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3726,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3729,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3729,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3730,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3730,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3731,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3731,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3734,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3734,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3735,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3735,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3738,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3738,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3739,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3739,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3740,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3740,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3741,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3741,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3744,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3744,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3745,1): warning C4793: 'stbi__YCbCr_to_RGB_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3745,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3548,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3548,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3549,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3549,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3550,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3550,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3551,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3551,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3552,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3552,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3553,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3553,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3554,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3554,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3555,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3555,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3562,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3562,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3563,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3563,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3564,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3564,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3565,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3565,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3571,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3571,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3572,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3572,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3573,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3573,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3574,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3574,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3575,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3575,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3576,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3576,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3577,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3577,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3580,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3580,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3581,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3581,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3582,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3582,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3583,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3583,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3586,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3586,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3587,1): warning C4793: 'stbi__resample_row_hv_2_simd@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image.h(3587,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(479,1): warning C4793: 'stbiw__outfile@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(479,1): warning C4793: 	varargs não suportados sob /clr
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(484,1): warning C4793: 'stbiw__outfile@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(484,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(486,1): warning C4793: 'stbiw__outfile@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(486,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(379,1): warning C4793: 'stbiw__writef@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(379,1): warning C4793: 	varargs não suportados sob /clr
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(381,1): warning C4793: 'stbiw__writef@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(381,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(383,1): warning C4793: 'stbiw__writef@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(383,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(354,1): warning C4793: 'stbiw__writefv@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(354,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(357,1): warning C4793: 'stbiw__writefv@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(357,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(363,1): warning C4793: 'stbiw__writefv@0x7819ed7d': função compilada como nativa:
+C:\Users\rhaya\source\repos\impactFiltro\include\stb\stb_image_write.h(363,1): warning C4793: 	Encontrado um intrínseco não suportado em código gerenciado
+  AssemblyInfo.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+  impactFiltro.vcxproj -> C:\Users\rhaya\source\repos\impactFiltro\x64\Debug\impactFiltro.exe

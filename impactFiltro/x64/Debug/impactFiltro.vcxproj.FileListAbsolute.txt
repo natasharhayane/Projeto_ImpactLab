@@ -1,0 +1,3 @@
+C:\Users\rhaya\source\repos\impactFiltro\impactFiltro\x64\Debug\impactFiltro.vcxproj.AssemblyReference.cache
+C:\Users\rhaya\source\repos\impactFiltro\impactFiltro\x64\Debug\impactFiltro.Form1.resources
+C:\Users\rhaya\source\repos\impactFiltro\impactFiltro\x64\Debug\impactFiltro.vcxproj.GenerateResource.cache
